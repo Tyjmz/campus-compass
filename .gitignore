@@ -39,6 +39,10 @@ build/Release
 
 # Dependency directories
 node_modules/
+.expo/
+web-build/
+/ios/
+/android/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
